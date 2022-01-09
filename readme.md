@@ -1,5 +1,5 @@
 # Planificador de Gastos
 
-### Tutorial de Planificador de Gastos con **ReactJS** usando *localstorage*
+### Ejercicio de Planificador de Gastos con **ReactJS** en *localstorage*
 
 ---
